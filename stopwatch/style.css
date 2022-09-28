@@ -1,0 +1,32 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+.container{
+    background-color: orange;
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    padding: 30px;
+
+}
+h1{
+    color: white;
+}
+p{
+    position: relative;
+    left: 200px;
+    color: white;
+    font-size: large;
+}
+button{
+    position: relative;
+    left: 180px;
+    box-shadow: 10px;
+}
+button:hover{
+    background-color: cadetblue;
+    cursor: pointer;
+}
